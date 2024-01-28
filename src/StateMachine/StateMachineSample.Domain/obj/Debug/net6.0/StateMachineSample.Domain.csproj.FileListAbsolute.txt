@@ -1,0 +1,48 @@
+C:/Users/yseli/Downloads/SagaStateMachine-Async-Messaging-master/SagaStateMachine-Async-Messaging-master/src/StateMachine/StateMachineSample.Domain/bin/Debug/net6.0/StateMachineSample.Domain.deps.json
+C:/Users/yseli/Downloads/SagaStateMachine-Async-Messaging-master/SagaStateMachine-Async-Messaging-master/src/StateMachine/StateMachineSample.Domain/bin/Debug/net6.0/StateMachineSample.Domain.dll
+C:/Users/yseli/Downloads/SagaStateMachine-Async-Messaging-master/SagaStateMachine-Async-Messaging-master/src/StateMachine/StateMachineSample.Domain/bin/Debug/net6.0/StateMachineSample.Domain.pdb
+C:/Users/yseli/Downloads/SagaStateMachine-Async-Messaging-master/SagaStateMachine-Async-Messaging-master/src/StateMachine/StateMachineSample.Domain/obj/Debug/net6.0/StateMachineSample.Domain.csproj.AssemblyReference.cache
+C:/Users/yseli/Downloads/SagaStateMachine-Async-Messaging-master/SagaStateMachine-Async-Messaging-master/src/StateMachine/StateMachineSample.Domain/obj/Debug/net6.0/StateMachineSample.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/yseli/Downloads/SagaStateMachine-Async-Messaging-master/SagaStateMachine-Async-Messaging-master/src/StateMachine/StateMachineSample.Domain/obj/Debug/net6.0/StateMachineSample.Domain.AssemblyInfoInputs.cache
+C:/Users/yseli/Downloads/SagaStateMachine-Async-Messaging-master/SagaStateMachine-Async-Messaging-master/src/StateMachine/StateMachineSample.Domain/obj/Debug/net6.0/StateMachineSample.Domain.AssemblyInfo.cs
+C:/Users/yseli/Downloads/SagaStateMachine-Async-Messaging-master/SagaStateMachine-Async-Messaging-master/src/StateMachine/StateMachineSample.Domain/obj/Debug/net6.0/StateMachineSample.Domain.csproj.CoreCompileInputs.cache
+C:/Users/yseli/Downloads/SagaStateMachine-Async-Messaging-master/SagaStateMachine-Async-Messaging-master/src/StateMachine/StateMachineSample.Domain/obj/Debug/net6.0/StateMachineSample.Domain.dll
+C:/Users/yseli/Downloads/SagaStateMachine-Async-Messaging-master/SagaStateMachine-Async-Messaging-master/src/StateMachine/StateMachineSample.Domain/obj/Debug/net6.0/refint/StateMachineSample.Domain.dll
+C:/Users/yseli/Downloads/SagaStateMachine-Async-Messaging-master/SagaStateMachine-Async-Messaging-master/src/StateMachine/StateMachineSample.Domain/obj/Debug/net6.0/StateMachineSample.Domain.pdb
+C:/Users/yseli/Downloads/SagaStateMachine-Async-Messaging-master/SagaStateMachine-Async-Messaging-master/src/StateMachine/StateMachineSample.Domain/obj/Debug/net6.0/ref/StateMachineSample.Domain.dll
+/Users/selim.karakas/Documents/Projects/Common Projects/SagaPattern-StateMachine/src/StateMachine/StateMachineSample.Domain/bin/Debug/net6.0/StateMachineSample.Domain.deps.json
+/Users/selim.karakas/Documents/Projects/Common Projects/SagaPattern-StateMachine/src/StateMachine/StateMachineSample.Domain/bin/Debug/net6.0/StateMachineSample.Domain.dll
+/Users/selim.karakas/Documents/Projects/Common Projects/SagaPattern-StateMachine/src/StateMachine/StateMachineSample.Domain/bin/Debug/net6.0/StateMachineSample.Domain.pdb
+/Users/selim.karakas/Documents/Projects/Common Projects/SagaPattern-StateMachine/src/StateMachine/StateMachineSample.Domain/obj/Debug/net6.0/StateMachineSample.Domain.csproj.AssemblyReference.cache
+/Users/selim.karakas/Documents/Projects/Common Projects/SagaPattern-StateMachine/src/StateMachine/StateMachineSample.Domain/obj/Debug/net6.0/StateMachineSample.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/selim.karakas/Documents/Projects/Common Projects/SagaPattern-StateMachine/src/StateMachine/StateMachineSample.Domain/obj/Debug/net6.0/StateMachineSample.Domain.AssemblyInfoInputs.cache
+/Users/selim.karakas/Documents/Projects/Common Projects/SagaPattern-StateMachine/src/StateMachine/StateMachineSample.Domain/obj/Debug/net6.0/StateMachineSample.Domain.AssemblyInfo.cs
+/Users/selim.karakas/Documents/Projects/Common Projects/SagaPattern-StateMachine/src/StateMachine/StateMachineSample.Domain/obj/Debug/net6.0/StateMachineSample.Domain.csproj.CoreCompileInputs.cache
+/Users/selim.karakas/Documents/Projects/Common Projects/SagaPattern-StateMachine/src/StateMachine/StateMachineSample.Domain/obj/Debug/net6.0/StateMachineSample.Domain.dll
+/Users/selim.karakas/Documents/Projects/Common Projects/SagaPattern-StateMachine/src/StateMachine/StateMachineSample.Domain/obj/Debug/net6.0/refint/StateMachineSample.Domain.dll
+/Users/selim.karakas/Documents/Projects/Common Projects/SagaPattern-StateMachine/src/StateMachine/StateMachineSample.Domain/obj/Debug/net6.0/StateMachineSample.Domain.pdb
+/Users/selim.karakas/Documents/Projects/Common Projects/SagaPattern-StateMachine/src/StateMachine/StateMachineSample.Domain/obj/Debug/net6.0/ref/StateMachineSample.Domain.dll
+D:\Projects\SagaPattern-StateMachine\SagaPattern-StateMachine\src\StateMachine\StateMachineSample.Domain\bin\Debug\net6.0\StateMachineSample.Domain.deps.json
+D:\Projects\SagaPattern-StateMachine\SagaPattern-StateMachine\src\StateMachine\StateMachineSample.Domain\bin\Debug\net6.0\StateMachineSample.Domain.dll
+D:\Projects\SagaPattern-StateMachine\SagaPattern-StateMachine\src\StateMachine\StateMachineSample.Domain\bin\Debug\net6.0\StateMachineSample.Domain.pdb
+D:\Projects\SagaPattern-StateMachine\SagaPattern-StateMachine\src\StateMachine\StateMachineSample.Domain\obj\Debug\net6.0\StateMachineSample.Domain.csproj.AssemblyReference.cache
+D:\Projects\SagaPattern-StateMachine\SagaPattern-StateMachine\src\StateMachine\StateMachineSample.Domain\obj\Debug\net6.0\StateMachineSample.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\SagaPattern-StateMachine\SagaPattern-StateMachine\src\StateMachine\StateMachineSample.Domain\obj\Debug\net6.0\StateMachineSample.Domain.AssemblyInfoInputs.cache
+D:\Projects\SagaPattern-StateMachine\SagaPattern-StateMachine\src\StateMachine\StateMachineSample.Domain\obj\Debug\net6.0\StateMachineSample.Domain.AssemblyInfo.cs
+D:\Projects\SagaPattern-StateMachine\SagaPattern-StateMachine\src\StateMachine\StateMachineSample.Domain\obj\Debug\net6.0\StateMachineSample.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\SagaPattern-StateMachine\SagaPattern-StateMachine\src\StateMachine\StateMachineSample.Domain\obj\Debug\net6.0\StateMachineSample.Domain.dll
+D:\Projects\SagaPattern-StateMachine\SagaPattern-StateMachine\src\StateMachine\StateMachineSample.Domain\obj\Debug\net6.0\refint\StateMachineSample.Domain.dll
+D:\Projects\SagaPattern-StateMachine\SagaPattern-StateMachine\src\StateMachine\StateMachineSample.Domain\obj\Debug\net6.0\StateMachineSample.Domain.pdb
+D:\Projects\SagaPattern-StateMachine\SagaPattern-StateMachine\src\StateMachine\StateMachineSample.Domain\obj\Debug\net6.0\ref\StateMachineSample.Domain.dll
+C:\Users\Nyujix\Desktop\SagaPattern-StateMachine\src\StateMachine\StateMachineSample.Domain\bin\Debug\net6.0\StateMachineSample.Domain.deps.json
+C:\Users\Nyujix\Desktop\SagaPattern-StateMachine\src\StateMachine\StateMachineSample.Domain\bin\Debug\net6.0\StateMachineSample.Domain.dll
+C:\Users\Nyujix\Desktop\SagaPattern-StateMachine\src\StateMachine\StateMachineSample.Domain\bin\Debug\net6.0\StateMachineSample.Domain.pdb
+C:\Users\Nyujix\Desktop\SagaPattern-StateMachine\src\StateMachine\StateMachineSample.Domain\obj\Debug\net6.0\StateMachineSample.Domain.csproj.AssemblyReference.cache
+C:\Users\Nyujix\Desktop\SagaPattern-StateMachine\src\StateMachine\StateMachineSample.Domain\obj\Debug\net6.0\StateMachineSample.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nyujix\Desktop\SagaPattern-StateMachine\src\StateMachine\StateMachineSample.Domain\obj\Debug\net6.0\StateMachineSample.Domain.AssemblyInfoInputs.cache
+C:\Users\Nyujix\Desktop\SagaPattern-StateMachine\src\StateMachine\StateMachineSample.Domain\obj\Debug\net6.0\StateMachineSample.Domain.AssemblyInfo.cs
+C:\Users\Nyujix\Desktop\SagaPattern-StateMachine\src\StateMachine\StateMachineSample.Domain\obj\Debug\net6.0\StateMachineSample.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Nyujix\Desktop\SagaPattern-StateMachine\src\StateMachine\StateMachineSample.Domain\obj\Debug\net6.0\StateMachineSample.Domain.dll
+C:\Users\Nyujix\Desktop\SagaPattern-StateMachine\src\StateMachine\StateMachineSample.Domain\obj\Debug\net6.0\refint\StateMachineSample.Domain.dll
+C:\Users\Nyujix\Desktop\SagaPattern-StateMachine\src\StateMachine\StateMachineSample.Domain\obj\Debug\net6.0\StateMachineSample.Domain.pdb
+C:\Users\Nyujix\Desktop\SagaPattern-StateMachine\src\StateMachine\StateMachineSample.Domain\obj\Debug\net6.0\ref\StateMachineSample.Domain.dll

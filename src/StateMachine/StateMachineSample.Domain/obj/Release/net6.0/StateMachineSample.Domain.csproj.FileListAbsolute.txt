@@ -1,0 +1,12 @@
+C:\Users\yseli\Downloads\SagaStateMachine-Async-Messaging-master\SagaStateMachine-Async-Messaging-master\src\StateMachine\StateMachineSample.Domain\bin\Release\net6.0\StateMachineSample.Domain.deps.json
+C:\Users\yseli\Downloads\SagaStateMachine-Async-Messaging-master\SagaStateMachine-Async-Messaging-master\src\StateMachine\StateMachineSample.Domain\bin\Release\net6.0\StateMachineSample.Domain.dll
+C:\Users\yseli\Downloads\SagaStateMachine-Async-Messaging-master\SagaStateMachine-Async-Messaging-master\src\StateMachine\StateMachineSample.Domain\bin\Release\net6.0\StateMachineSample.Domain.pdb
+C:\Users\yseli\Downloads\SagaStateMachine-Async-Messaging-master\SagaStateMachine-Async-Messaging-master\src\StateMachine\StateMachineSample.Domain\obj\Release\net6.0\StateMachineSample.Domain.csproj.AssemblyReference.cache
+C:\Users\yseli\Downloads\SagaStateMachine-Async-Messaging-master\SagaStateMachine-Async-Messaging-master\src\StateMachine\StateMachineSample.Domain\obj\Release\net6.0\StateMachineSample.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yseli\Downloads\SagaStateMachine-Async-Messaging-master\SagaStateMachine-Async-Messaging-master\src\StateMachine\StateMachineSample.Domain\obj\Release\net6.0\StateMachineSample.Domain.AssemblyInfoInputs.cache
+C:\Users\yseli\Downloads\SagaStateMachine-Async-Messaging-master\SagaStateMachine-Async-Messaging-master\src\StateMachine\StateMachineSample.Domain\obj\Release\net6.0\StateMachineSample.Domain.AssemblyInfo.cs
+C:\Users\yseli\Downloads\SagaStateMachine-Async-Messaging-master\SagaStateMachine-Async-Messaging-master\src\StateMachine\StateMachineSample.Domain\obj\Release\net6.0\StateMachineSample.Domain.csproj.CoreCompileInputs.cache
+C:\Users\yseli\Downloads\SagaStateMachine-Async-Messaging-master\SagaStateMachine-Async-Messaging-master\src\StateMachine\StateMachineSample.Domain\obj\Release\net6.0\StateMachineSample.Domain.dll
+C:\Users\yseli\Downloads\SagaStateMachine-Async-Messaging-master\SagaStateMachine-Async-Messaging-master\src\StateMachine\StateMachineSample.Domain\obj\Release\net6.0\refint\StateMachineSample.Domain.dll
+C:\Users\yseli\Downloads\SagaStateMachine-Async-Messaging-master\SagaStateMachine-Async-Messaging-master\src\StateMachine\StateMachineSample.Domain\obj\Release\net6.0\StateMachineSample.Domain.pdb
+C:\Users\yseli\Downloads\SagaStateMachine-Async-Messaging-master\SagaStateMachine-Async-Messaging-master\src\StateMachine\StateMachineSample.Domain\obj\Release\net6.0\ref\StateMachineSample.Domain.dll
